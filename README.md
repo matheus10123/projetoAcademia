@@ -3,4 +3,4 @@ Fruto dos meu conhecimentos como programador inicante de python, dicas são bem 
 Programa baseado em um sistema de academias.
   inscrição
   pagar mensalidade
-  entrar e sair
+  entrar e sair.
